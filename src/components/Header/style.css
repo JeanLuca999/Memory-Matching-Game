@@ -10,9 +10,12 @@
 .header__h1 {
   font-size: 5rem;
   font-style: italic;
+  font-weight: 900;
+  color: black;
 }
 
 .header__h2 {
   font-size: 2rem;
   font-weight: 300;
+  color: #0f0f0f;
 }
