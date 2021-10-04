@@ -5,7 +5,7 @@
 O site consiste em um jogo da memória implementado em React JS.
 
 ## ⚛️ Tecnologias Utilizadas
-React JS
+React JS <br>
 CSS
 
 ## 💽 Como Iniciar o Projeto
