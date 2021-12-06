@@ -9,7 +9,8 @@ React JS <br>
 CSS
 
 ## 💽 Como Iniciar o Projeto
-utilize o comando `npm start`
+para baixar as dependências utilize `npm install` <br>
+utilize o comando `npm start` para inicializar.
 
 ## 💻 Preview do Projeto
 ![image](./src/Assets/preview.PNG)
